@@ -31,11 +31,4 @@ name = "rgb2a_lscolors"
 version = "0.1.0"
 dependencies = [
  "ansi_colours",
- "rgb2ansi256",
 ]
-
-[[package]]
-name = "rgb2ansi256"
-version = "0.1.1"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "1ebca96b1c05912d531790498048bab5b7b97a756a7bb9df71fa4ef7ef9814e1"
